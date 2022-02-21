@@ -1,6 +1,6 @@
-TP2 : DM “station”
+Régression Linéaire Multiple : “station”
 ================
-Thibaut Fortuné, Yifan Zhao
+Thibaut Fortuné
 11/11/2021
 
 # 1. Etude descriptive des données
