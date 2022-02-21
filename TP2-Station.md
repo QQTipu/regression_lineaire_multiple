@@ -29,7 +29,7 @@ head(station)
 plot(station[,1:4])
 ```
 
-![](TP2-Station_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 On remarque une dépendance linéaire croissante des **ventes** avec le
 **nbpompes** et le **nbconc**. En revanche, le lien du nombre de
@@ -67,7 +67,7 @@ plot(res, axes = c(1, 2), choice = "cor")
 plot(res, axes = c(1, 2), choice = "ind")
 ```
 
-![](TP2-Station_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+![](figure-gfm/unnamed-chunk-6-1.png)<!-- -->
 
 En regardant le cercle de corrélation, on s’apperçoit que les **ventes**
 sont corrélées avec le **nbpompes** et le **nbconc** qui sont d’ailleurs
@@ -138,7 +138,7 @@ abline(h=0)
 boxplot(modele$residuals)
 ```
 
-![](TP2-Station_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
 ## Retrait de la station qui ne répond pas à la normalité
 
