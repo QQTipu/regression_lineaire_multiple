@@ -1,6 +1,6 @@
 # Regression lineaire multiple en R
 
-Dans ce projet, retrouver l'étude des ventes de plusieurs stations essence en fonction de plusieurs variables : le trafic autour de la station, le nombre de pompes de la station et le nombre de concurrents autour de cette station.
+Dans ce projet, retrouvez l'étude des ventes de plusieurs stations essence en fonction de plusieurs variables : le trafic autour de la station, le nombre de pompes de la station et le nombre de concurrents autour de cette station.
 
 Retrouvez les étapes de cette regression linéaire multiple [ici](https://github.com/QQTipu/regression_lineaire_multiple/blob/main/TP2-Station.md).
 - 1. [Etude descriptive des données](https://github.com/QQTipu/regression_lineaire_multiple/blob/main/TP2-Station.md#1-etude-descriptive-des-donn%C3%A9es)
